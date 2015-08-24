@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/hbc-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/hbc-twitter4j-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/hbc-twitter4j-v3-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/joauth-3.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/lightcouch-0.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/scala-library-2.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/slf4j-simple-1.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/twitter4j-core-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/austinwang/Downloads/tweetsprocessor3/twitter4j-stream-3.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
